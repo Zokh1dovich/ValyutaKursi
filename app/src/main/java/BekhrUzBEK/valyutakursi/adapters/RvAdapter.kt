@@ -17,6 +17,8 @@ class RvAdapter(var list: List<MyValyuta>) : RecyclerView.Adapter<RvAdapter.Vh>(
             itemRvBinding.itemDifOnn.visibility = View.VISIBLE
             itemRvBinding.itemDifOnn.text = myValyuta.Diff
 
+            //hello
+
         }
     }
 
